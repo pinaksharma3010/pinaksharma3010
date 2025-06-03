@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Pinak+Sharma;A+Passionate+Full+Stack+Developer;Event+Anchor+%7C+Tech+Enthusiast+%F0%9F%92%BB;Welcome+to+my+GitHub+Profile!+%F0%9F%91%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Pinak+Sharma;A+Passionate+Web+Developer;Event+Anchor+%7C+Tech+Enthusiast+%F0%9F%92%BB;Welcome+to+my+GitHub+Profile!+%F0%9F%91%80" alt="Typing SVG" />
 </p>
 
-<h3 align="center">🚀 Full Stack Developer | 🎤 Event Anchor | 📍 India</h3>
+<h3 align="center">🚀 Web Developer | 🎤 Event Anchor | 📍 India</h3>
 
 ---
 
