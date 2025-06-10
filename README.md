@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **developing my skillset**
 - 🌱 Currently learning **DSA and Python**
 - 🤝 Looking to collaborate on **web development projects**
-- 💬 Ask me about **C++, DSA, HTML, CSS, public speaking, and event management**
+- 💬 Ask me about **C++, DSA, HTML, CSS,Java Script, public speaking, and event management**
 - 🎤 I'm also an **Event Anchor** — leading and training stage presenters for major university functions
 - 📫 Reach me at: **pinaksharma005@gmail.com**
 - ⚡ Fun fact: *“The best advice I ever received was — You are your own saviour!”*
