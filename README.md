@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **developing my skillset**
 - 🌱 Currently learning **DSA and Python**
 - 🤝 Looking to collaborate on **web development projects**
-- 💬 Ask me about **C++, DSA, HTML, CSS,Java Script, public speaking, and event management**
+- 💬 Ask me about **C++, DSA, HTML, CSS, JavaScript, public speaking, and event management**
 - 🎤 I'm also an **Event Anchor** — leading and training stage presenters for major university functions
 - 📫 Reach me at: **pinaksharma005@gmail.com**
 - ⚡ Fun fact: *“The best advice I ever received was — You are your own saviour!”*
@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pinaksharma3010&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=pinaksharma3010&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
